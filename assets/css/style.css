@@ -1,9 +1,9 @@
 body {
 	/*background-color: #696969;*/
-	/*background-image: url("http://biteinto.info/wp-content/uploads/2016/02/light-gray-wood-background-and-light-grey-wood-background-22.jpg");*/
 	background-image: url("../images/background.jpg");
 	font-family: Ariel, sans-serif;
 }
+
 header {
 	background-color: #B8860B;
 	border-bottom: 5px solid #785807;
@@ -27,7 +27,6 @@ header {
 	display: inline-block;
 	color: #2b506e;
 	padding: 15px;
-	/*color: #4682B4;*/
 }
 
 .social {
