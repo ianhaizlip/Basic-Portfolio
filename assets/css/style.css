@@ -15,6 +15,10 @@ header {
 	z-index: 1;
 }
 
+a {
+	color: #696969;
+}
+
 .navigate {
 	width: 200px;
 	display: inline-block;
